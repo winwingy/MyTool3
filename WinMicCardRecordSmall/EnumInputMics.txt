@@ -1,0 +1,4 @@
+devCnt = 1
+i = 0  res = 0 
+wMid = 1  wPid = 101 vDriverVersion = 1537 szPname = Âó¿Ë·ç (Realtek High Definition  dwFormats = 1048575, wChannels = 2, wReserved1 = 26601
+
